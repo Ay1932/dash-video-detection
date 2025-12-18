@@ -1,0 +1,14 @@
+tensorflow>=2.10.0
+tensorflow-hub>=0.16.0
+dash
+dash-bootstrap-components
+dash-table
+plotly>=4.10.0
+pandas
+numpy
+jupyter
+gunicorn
+opencv-python>=4.8.0
+tqdm
+Pillow
+git+https://github.com/plotly/dash-player
