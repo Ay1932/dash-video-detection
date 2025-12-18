@@ -76,6 +76,4 @@ ffmpeg -i ./data/processed/scene_3.mov -vcodec libx264 -crf 28 ./static/scene_3.
 rm ./data/processed/scene*.mov
 ```
 
-## Contact
 
-Interested in building or deploying apps like this? [Reach out](https://plotly.com/contact-us/) or [get a demo](https://plotly.com/get-demo).
